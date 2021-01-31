@@ -1,0 +1,58 @@
+body{ 
+background: url(IMG/3.jpg) no-repeat; 
+background-size:100%; 
+max-width:100%; 
+height: auto; 
+} 
+#header{
+background:rgba(255,255,255,0.75);	
+border-radius: 25px;
+font-size: 50px;
+color: red; 
+text-align: center;
+font-family: Helvetica;
+height:130px;
+margin-bottom:10px;
+}
+.menu{
+width:80%;
+height:auto;
+margin:0 auto;
+text-align:center;
+}
+.menu button{
+background-color:#ff5555;
+font-size:16pt;
+width:200px;
+margin:0 10px;
+}
+#content{ 
+	width:80%;
+	margin:0 auto;
+background:rgba(255,255,255,0.75);	
+margin-top: 35px;
+border-radius: 25px;
+padding:10px;
+}
+#content h2{color:green;
+font-family: Verdana;
+font-size:30px;
+}
+#content p{text-align: left;
+font-family: Calibri;
+font-size: 15pt;
+}
+#tablica td{padding-left:50px;padding-right:50px;}
+#tablica p{text-align: center;}
+#tablica1 td{padding-left:50px;padding-right:50px;}
+#tablica1 p{text-align: center;}
+#tablica2 td{padding-left:50px;padding-right:50px;}
+#tablica2 p{text-align: center;}
+#vozvrat{text-align: center;}
+#vozvrat a{
+text-decoration: none;}
+#footer h5{font-family: Helvetica;
+	color:red;
+font-size:15px;
+text-align: center;}
+

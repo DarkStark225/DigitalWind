@@ -1,0 +1,59 @@
+body{ 
+background: url(IMG/3.jpg) no-repeat; 
+background-size:100%; 
+max-width:100%; 
+height: auto; 
+} 
+#header{
+background:rgba(255,255,255,0.75);	
+border-radius: 25px;
+font-size: 50px;
+color: red; 
+text-align: center;
+font-family: Helvetica;
+height:130px;
+margin-bottom:10px;
+transition:all 0.3s ease;
+}
+.menu{
+width:80%;
+height:auto;
+margin:0 auto;
+text-align:center;
+}
+.menu button{
+background-color:#ff5555;
+font-size:16pt;
+width:200px;
+margin:0 10px;
+}
+#content{ 
+	width:80%;
+	margin:0 auto;
+background:rgba(255,255,255,0.75);	
+margin-top: 35px;
+border-radius: 25px;
+padding:10px;
+}
+#content h2{color:green;
+font-family: Verdana;
+font-size:30px;
+}
+#content p{text-align: left;
+font-family: Calibri;
+font-size: 15pt;
+}
+#mesta table{margin:0 auto;}
+#mesta img{border-radius:10px;}
+#tablica h4{color: blue;
+font-family: Verdana;
+font-size:20px;
+text-align: center;}
+#tablica td{padding-left:15px;padding-right:15px;}
+#tablica img{ border-radius: 25px;}
+#tablica p{text-align: center;}
+#tablica a{text-decoration: none;}
+#footer h5{font-family: Helvetica;
+	color:red;
+font-size:15px;
+text-align: center;}
